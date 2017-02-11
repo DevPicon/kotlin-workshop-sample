@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My First Kotlin Application</string>
+    <string name="sample_fruit_name">banana</string>
 </resources>
